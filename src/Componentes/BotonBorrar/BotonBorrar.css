@@ -1,0 +1,11 @@
+﻿.clear {
+  background-color: brown;
+  width: 280px;
+  border-radius: 30px;
+  font-size: x-large;
+  margin: 3px;
+}
+
+.clear:hover {
+  background-color: crimson;
+}
